@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sauravdikshit
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Flutter,Java,.Net
+- 🌱 I’m currently learning Flutter,Java,React Natve,Nodejs, Mongo DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
