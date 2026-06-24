@@ -35,33 +35,26 @@
 <td valign="top" width="55%">
 
 ```typescript
+// saurav.ts — who is this guy?
+
 const saurav: Developer = {
   name     : "Saurav Kumar",
   location : "Patna, India 🇮🇳",
-  education: "MCA — GGSIPU, Delhi",
   role     : "React Native Developer",
 
-  experience: {
-    years : "2+",
-    apps  : "10+ shipped to production",
-  },
-
   code      : ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
-  frameworks: ["React Native", "Expo", "Redux", "Zustand"],
+  frameworks: ["React Native", "Expo", "Zustand"],
 
-  currentlyLearning: ["SwiftUI", "Kotlin", "GraphQL", "Rust"],
+  learning  : ["SwiftUI", "GraphQL", "Rust"],
 
   hobbies: [
-    "💻 Coding",       "📝 Tech Blogging",
-    "♟️ Chess",        "🎧 Music",
-    "📚 Reading",
+    "💻 Coding",    "📝 Tech Blogging",
+    "♟️  Chess",    "🎧 Music",    "📚 Reading",
   ],
 
-  pets     : ["🐱 Cat: Whiskers", "🐶 Dog: Bruno"],
-  languages: ["English", "Hindi"],
-
-  weakness   : "☕ Too much coffee (5+ cups a day)",
-  superpower : "⚡ Optimizing performance without breaking things",
+  pets     : ["🐱 Whiskers", "🐶 Bruno"],
+  weakness : "☕ 5+ cups of coffee/day",
+  superpower: "⚡ 60fps without breaking things",
 
   goals: [
     "Build 50+ apps",
@@ -69,12 +62,13 @@ const saurav: Developer = {
     "Start a tech YouTube channel",
   ],
 
-  favoriteQuote: "Write once, run everywhere — but make it feel native.",
-  openTo       : ["Freelance", "Full-time", "OSS"],
+  quote : `Write once, run everywhere — but make it feel native.`,
+  openTo: ["Freelance", "Full-time", "OSS"],
 };
 
-console.log(saurav.favoriteQuote);
-// Output: "Write once, run everywhere — but make it feel native."
+// run it ↓
+console.log(saurav.quote);
+// ▶ "Write once, run everywhere — but make it feel native."
 ```
 
 </td>
