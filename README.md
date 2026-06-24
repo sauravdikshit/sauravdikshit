@@ -34,23 +34,27 @@
 <code style="color: #818cf8;">⚡ Developer Console
 $ whoami</code>
 
-Name      : <span style="color: #818cf8;">Saurav Kumar</span>
-Role      : <span style="color: #818cf8;">React Native Developer</span>
-Location  : <span style="color: #818cf8;">India</span>
+⚡ Developer Console
+$ whoami
+
+Name      : Saurav Kumar
+Role      : React Native Developer
+Location  : India
 
 Speciality:
-├── <span style="color: #818cf8;">React Native</span>
-├── <span style="color: #818cf8;">Expo</span>
-├── <span style="color: #818cf8;">Firebase</span>
-├── <span style="color: #818cf8;">Zustand</span>
-├── <span style="color: #818cf8;">TypeScript</span>
-└── <span style="color: #818cf8;">AI Integrations</span>
+├── React Native
+├── Expo
+├── Firebase
+├── Zustand
+├── TypeScript
+└── AI Integrations
 
 Currently Building:
-└── <span style="color: #818cf8;">HabitFlow</span>
+└── HabitFlow
 
 Mission:
-└── <span style="color: #818cf8;">Build products people love using every day.</span>
+└── Build products people love using every day.
+
     </pre>
   </div>
 
