@@ -15,7 +15,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sauravdikshit&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge)](https://github.com/sauravdikshit)&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/sauravdikshit?label=🤝%20Followers&style=for-the-badge&color=4f46e5)](https://github.com/sauravdikshit?tab=followers)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sauravdikshit)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurav-kumar-96a348140/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sauravdikshit)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://sauravdikshit.github.io/saurav.dev/index.html)&nbsp;
 
