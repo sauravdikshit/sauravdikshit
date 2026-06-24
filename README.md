@@ -26,49 +26,41 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-## 🧬 `whoami`
+  <!-- LEFT COLUMN – Developer Console -->
+  <div style="flex: 1 1 300px; min-width: 280px; max-width: 500px; text-align: left;">
+    <pre style="background: #0d1117; border: 1px solid #7c3aed; border-radius: 12px; padding: 20px; color: #c9d1d9; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.6;">
+<code style="color: #818cf8;">⚡ Developer Console
+$ whoami</code>
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-```typescript
-⚡ Developer Console
-$ whoami
-
-Name      : Saurav Kumar
-Role      : React Native Developer
-Location  : India
+Name      : <span style="color: #818cf8;">Saurav Kumar</span>
+Role      : <span style="color: #818cf8;">React Native Developer</span>
+Location  : <span style="color: #818cf8;">India</span>
 
 Speciality:
-├── React Native
-├── Expo
-├── Firebase
-├── Zustand
-├── TypeScript
-└── AI Integrations
+├── <span style="color: #818cf8;">React Native</span>
+├── <span style="color: #818cf8;">Expo</span>
+├── <span style="color: #818cf8;">Firebase</span>
+├── <span style="color: #818cf8;">Zustand</span>
+├── <span style="color: #818cf8;">TypeScript</span>
+└── <span style="color: #818cf8;">AI Integrations</span>
 
 Currently Building:
-└── HabitFlow
+└── <span style="color: #818cf8;">HabitFlow</span>
 
 Mission:
-└── Build products people love using every day.
+└── <span style="color: #818cf8;">Build products people love using every day.</span>
+    </pre>
+  </div>
 
-```
+  <!-- RIGHT COLUMN – GitHub Stats (stacks vertically) -->
+  <div style="flex: 1 1 300px; min-width: 280px; max-width: 500px; display: flex; flex-direction: column; gap: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github&card_width=340" width="100%" style="border-radius: 8px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight&border=7c3aed&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=888" width="100%" style="border-radius: 8px;" />
+  </div>
 
-</td>
-<td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github&card_width=340" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight&border=7c3aed&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=888" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
