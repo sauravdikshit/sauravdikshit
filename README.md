@@ -46,17 +46,35 @@ const saurav: Developer = {
     apps  : "10+ shipped to production",
   },
 
-  coreTech: [
-    "React Native", "Expo Router",
-    "TypeScript",   "Firebase",
-    "Zustand",      "Reanimated v3",
-    "Kotlin",       "Gemini AI",
+  code      : ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
+  frameworks: ["React Native", "Expo", "Redux", "Zustand"],
+
+  currentlyLearning: ["SwiftUI", "Kotlin", "GraphQL", "Rust"],
+
+  hobbies: [
+    "💻 Coding",       "📝 Tech Blogging",
+    "♟️ Chess",        "🎧 Music",
+    "📚 Reading",
   ],
 
-  currentBuild : "🌱 HabitFlow — AI Habit Tracker",
-  superpower   : "Buttery 60fps UIs that feel native",
+  pets     : ["🐱 Cat: Whiskers", "🐶 Dog: Bruno"],
+  languages: ["English", "Hindi"],
+
+  weakness   : "☕ Too much coffee (5+ cups a day)",
+  superpower : "⚡ Optimizing performance without breaking things",
+
+  goals: [
+    "Build 50+ apps",
+    "Contribute to React Native core",
+    "Start a tech YouTube channel",
+  ],
+
+  favoriteQuote: "Write once, run everywhere — but make it feel native.",
   openTo       : ["Freelance", "Full-time", "OSS"],
 };
+
+console.log(saurav.favoriteQuote);
+// Output: "Write once, run everywhere — but make it feel native."
 ```
 
 </td>
@@ -71,6 +89,27 @@ const saurav: Developer = {
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 🎲 Fun Facts About Me
+
+<div align="center">
+
+| | |
+|:---|:---|
+| ☕ **Fuel** | 5+ cups of coffee a day — no cap |
+| ♟️ **Hobby** | Chess · Tech Blogging · Music · Reading |
+| 🐾 **Pets** | 🐱 Whiskers (cat) · 🐶 Bruno (dog) |
+| 🌍 **Languages** | English · Hindi |
+| 📖 **Currently Learning** | SwiftUI · GraphQL · Rust |
+| 🎯 **Dream Goals** | 50+ apps · React Native core contributor · YouTube channel |
+| ⚡ **Superpower** | Optimizing performance without breaking anything |
+| 💬 **Favorite Quote** | *"Write once, run everywhere — but make it feel native."* |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
