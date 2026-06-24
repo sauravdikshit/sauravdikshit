@@ -17,7 +17,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/sauravdikshit?label=🤝%20Followers&style=for-the-badge&color=4f46e5)](https://github.com/sauravdikshit?tab=followers)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sauravdikshit)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sauravdikshit)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)]([https://sauravdikshit.github.io/saurav.dev/index.html](https://sauravdikshit.github.io/saurav.dev/index.html))
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)]([https://sauravdikshit.github.io/saurav.dev/index.html)
 
 </div>
 
