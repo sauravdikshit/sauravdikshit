@@ -1,269 +1,183 @@
-# <div align="center">Hi 👋, I'm Saurav Kumar</div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=260&section=header&text=Saurav%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Expo%20Specialist%20%7C%20AI%20Builder&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=320&section=header&text=Saurav%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20•%20Expo%20Specialist%20•%20AI%20Builder&descAlignY=62&descSize=22"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=React+Native+Developer;Expo+Specialist;Building+AI+Powered+Mobile+Apps;Firebase+%7C+TypeScript+%7C+Zustand;Performance+Obsessed;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=1000&lines=📱+React+Native+Developer;⚡+Performance+Obsessed;🤖+AI+Powered+Mobile+Apps;🔥+Firebase+%7C+Expo+%7C+TypeScript;🚀+Building+HabitFlow;💡+Creating+Apps+People+Love"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257464-1576b047-4fca-4d31-b6b2-0d6e4b6a6a54.gif" width="700"/>
+
+</div>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=sauravdikshit\&label=Profile+Views\&color=6A5ACD\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sauravdikshit\&style=for-the-badge\&color=6A5ACD)
+
+![](https://img.shields.io/github/followers/sauravdikshit?style=for-the-badge\&color=32A6A8)
+
+![](https://img.shields.io/github/stars/sauravdikshit?style=for-the-badge\&color=2D4F7C)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Terminal
 
-```typescript
-class Developer {
-  name = "Saurav Kumar";
+```bash
+> whoami
 
-  role = "React Native Developer";
+Saurav Kumar
 
-  location = "India 🇮🇳";
+React Native Developer
+Expo Specialist
+Firebase Expert
+AI Builder
 
-  stack = {
-    mobile: [
-      "React Native",
-      "Expo",
-      "TypeScript"
-    ],
+Currently Building:
+└── HabitFlow
 
-    backend: [
-      "Firebase",
-      "Firestore",
-      "FCM",
-      "Node.js"
-    ],
+Tech Stack:
+├── React Native
+├── Expo
+├── Firebase
+├── TypeScript
+├── Zustand
+└── Gemini AI
 
-    stateManagement: [
-      "Zustand",
-      "MMKV"
-    ],
-
-    ai: [
-      "Gemini AI",
-      "AI Chat",
-      "Prompt Engineering"
-    ]
-  };
-
-  currentFocus() {
-    return [
-      "HabitFlow",
-      "AI Mobile Apps",
-      "Performance Optimization",
-      "Native Android Features"
-    ];
-  }
-
-  lifePhilosophy() {
-    return "Build products users love.";
-  }
-}
+Mission:
+└── Build products people love.
 ```
 
-* 📱 React Native Developer
-* 🚀 Building scalable mobile applications
-* 🔥 Firebase & Firestore Specialist
-* 🤖 AI Powered Mobile Apps
-* ⚡ Performance Optimization Enthusiast
-* 🌱 Currently Building HabitFlow
-* 💬 Ask me about React Native, Expo, Firebase & AI
+---
+
+# ⚡ Tech Universe
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,java,firebase,nodejs,git,github,vscode,figma,postman,androidstudio"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🌱 HabitFlow
 
-AI Powered Habit Tracking & Wellness Platform
+AI Powered Habit Tracker
 
-### Highlights
+✨ AI Mentor
+🔥 Smart Streaks
+🧘 Meditation
+📊 Analytics
+🔔 Push Notifications
 
-* 🤖 AI Zen Mentor
-* 🔥 Smart Streak System
-* 🧘 Breathing Exercises
-* 📊 Analytics Dashboard
-* 🔔 Smart Notifications
-* 👟 Step Tracking
-* 🌍 Community Features
+**React Native • Expo • Firebase • Gemini AI**
 
-**Stack**
+</td>
 
-React Native • Expo • Firebase • Gemini AI • Zustand • MMKV
-
----
+<td width="50%">
 
 ## 💍 BihariVivah
 
 Modern Matrimonial Platform
 
-### Features
+❤️ Swipe Matching
+🎥 Rich Media Profiles
+⚡ Smooth Animations
+🚀 Production Ready
 
-* ❤️ Swipe Matching
-* 🎥 Media Profiles
-* 📱 Responsive UI
-* 🔐 Authentication
-* 🚀 EAS Updates
+**React Native • Expo • TypeScript**
 
-**Stack**
-
-React Native • Expo • Firebase • TypeScript
-
----
-
-## 🚛 Zinka
-
-Fleet & Logistics Management
-
-### Features
-
-* 🔐 JWT Authentication
-* 📍 Tracking System
-* 📊 Dashboard
-* ⚡ Optimized Performance
-* 🧩 Modular Architecture
-
-**Stack**
-
-React Native • Expo Router • Zustand • Axios
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-### Mobile Development
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight"/>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,java,androidstudio"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=compact&theme=tokyonight"/>
 
-### Backend & Cloud
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,gcp"/>
+<p align="center">
 
-### Tools & Workflow
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sauravdikshit&theme=tokyo-night"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-
-</div>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Achievements
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sauravdikshit&theme=tokyonight&row=2&column=4"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Developer Dashboard
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravdikshit&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sauravdikshit&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📊 Developer Metrics
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravdikshit&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 Current Focus
+# 🐍 Contribution Snake
 
-```yaml
-learning:
-  - Advanced React Native
-  - Native Android Development
-  - AI Integrations
-  - App Performance
+<p align="center">
 
-building:
-  - HabitFlow
-  - AI Mobile Experiences
+<img src="https://raw.githubusercontent.com/sauravdikshit/sauravdikshit/output/github-contribution-grid-snake.svg"/>
 
-goal:
-  - Build impactful products
-```
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
-<div align="center">
+<p align="center">
+
+<a href="https://github.com/sauravdikshit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/sauravdikshit">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sauravdikshit/sauravdikshit/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <div align="center">
 
-### "Build products people love to use."
+### 🚀 Build products people love to use.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=160&section=footer"/>
 
 </div>
