@@ -34,40 +34,27 @@
 <td valign="top" width="55%">
 
 ```typescript
-// saurav.ts — who is this guy?
+⚡ Developer Console
+$ whoami
 
-const saurav: Developer = {
-  name     : "Saurav Kumar",
-  location : "Patna, India 🇮🇳",
-  role     : "React Native Developer",
+Name      : Saurav Kumar
+Role      : React Native Developer
+Location  : India
 
-  code      : ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
-  frameworks: ["React Native", "Expo", "Zustand"],
+Speciality:
+├── React Native
+├── Expo
+├── Firebase
+├── Zustand
+├── TypeScript
+└── AI Integrations
 
-  learning  : ["SwiftUI", "GraphQL", "Rust"],
+Currently Building:
+└── HabitFlow
 
-  hobbies: [
-    "💻 Coding",    "📝 Tech Blogging",
-    "♟️  Chess",    "🎧 Music",    "📚 Reading",
-  ],
+Mission:
+└── Build products people love using every day.
 
-  pets     : ["🐱 Whiskers", "🐶 Bruno"],
-  weakness : "☕ 5+ cups of coffee/day",
-  superpower: "⚡ 60fps without breaking things",
-
-  goals: [
-    "Build 50+ apps",
-    "Contribute to React Native core",
-    "Start a tech YouTube channel",
-  ],
-
-  quote : `Write once, run everywhere — but make it feel native.`,
-  openTo: ["Freelance", "Full-time", "OSS"],
-};
-
-// run it ↓
-console.log(saurav.quote);
-// ▶ "Write once, run everywhere — but make it feel native."
 ```
 
 </td>
