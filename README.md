@@ -29,11 +29,6 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- LEFT COLUMN – Developer Console -->
-  <div style="flex: 1 1 300px; min-width: 280px; max-width: 500px; text-align: left;">
-    <pre style="background: #0d1117; border: 1px solid #7c3aed; border-radius: 12px; padding: 20px; color: #c9d1d9; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.6;">
-<code style="color: #818cf8;">⚡ Developer Console
-$ whoami</code>
-
 ⚡ Developer Console
 $ whoami
 
@@ -55,8 +50,6 @@ Currently Building:
 Mission:
 └── Build products people love using every day.
 
-    </pre>
-  </div>
 
   <!-- RIGHT COLUMN – GitHub Stats (stacks vertically) -->
   <div style="flex: 1 1 300px; min-width: 280px; max-width: 500px; display: flex; flex-direction: column; gap: 15px;">
