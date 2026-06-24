@@ -1,384 +1,269 @@
+# <div align="center">Hi 👋, I'm Saurav Kumar</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:4f46e5,100:06b6d4&height=250&section=header&text=Saurav%20Kumar&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=React%20Native%20Developer%20%E2%80%A2%20Mobile%20App%20Artisan%20%E2%80%A2%20AI%20Integrator&descAlignY=62&descSize=20&descColor=e0e7ff&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=260&section=header&text=Saurav%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Expo%20Specialist%20%7C%20AI%20Builder&descAlignY=60&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=818CF8&center=true&vCenter=true&multiline=false&width=680&lines=%F0%9F%93%B1+Building+apps+people+actually+love;%E2%9A%A1+60fps+%7C+Buttery+Smooth+%7C+Pixel-perfect;%F0%9F%94%A5+React+Native+%2B+Expo+%7C+2%2B+Years;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+to+Play+Store;%F0%9F%A4%96+AI+%7C+Firebase+%7C+Zustand+%7C+Native+Modules" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sauravdikshit&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge)](https://github.com/sauravdikshit)&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/sauravdikshit?label=🤝%20Followers&style=for-the-badge&color=4f46e5)](https://github.com/sauravdikshit?tab=followers)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sauravdikshit)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sauravdikshit)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://saurav.dev)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=React+Native+Developer;Expo+Specialist;Building+AI+Powered+Mobile+Apps;Firebase+%7C+TypeScript+%7C+Zustand;Performance+Obsessed;Always+Learning+Something+New"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=sauravdikshit\&label=Profile+Views\&color=6A5ACD\&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🧬 `whoami`
-
-<table>
-<tr>
-<td valign="top" width="55%">
+# 👨‍💻 About Me
 
 ```typescript
-// saurav.ts — who is this guy?
+class Developer {
+  name = "Saurav Kumar";
 
-const saurav = {
-  name: "Saurav Kumar",
-  location: "Patna, India 🇮🇳",
-  role: "React Native Developer",
+  role = "React Native Developer";
 
-  code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
-  frameworks: ["React Native", "Expo", "Zustand"],
+  location = "India 🇮🇳";
 
-  learning: ["SwiftUI", "GraphQL", "Rust"],
+  stack = {
+    mobile: [
+      "React Native",
+      "Expo",
+      "TypeScript"
+    ],
 
-  hobbies: [
-    "💻 Coding",
-    "📝 Tech Blogging",
-    "♟️ Chess",
-    "🎧 Music",
-    "📚 Reading",
-  ],
+    backend: [
+      "Firebase",
+      "Firestore",
+      "FCM",
+      "Node.js"
+    ],
 
-  pets: ["🐱 Whiskers", "🐶 Bruno"],
-  weakness: "☕ 5+ cups of coffee/day",
-  superpower: "⚡ 60fps without breaking things",
+    stateManagement: [
+      "Zustand",
+      "MMKV"
+    ],
 
-  goals: [
-    "Build 50+ apps",
-    "Contribute to React Native core",
-    "Start a tech YouTube channel",
-  ],
+    ai: [
+      "Gemini AI",
+      "AI Chat",
+      "Prompt Engineering"
+    ]
+  };
 
-  quote: "Write once, run everywhere — but make it feel native.",
-  openTo: ["Freelance", "Full-time", "OSS"],
-};
-console.log(saurav.name);
-console.log(saurav.role);
-console.log(saurav.quote);
+  currentFocus() {
+    return [
+      "HabitFlow",
+      "AI Mobile Apps",
+      "Performance Optimization",
+      "Native Android Features"
+    ];
+  }
 
-
-// ▶ "Write once, run everywhere — but make it feel native."
+  lifePhilosophy() {
+    return "Build products users love.";
+  }
+}
 ```
 
-</td>
-<td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github&card_width=340" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight&border=7c3aed&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=888" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+* 📱 React Native Developer
+* 🚀 Building scalable mobile applications
+* 🔥 Firebase & Firestore Specialist
+* 🤖 AI Powered Mobile Apps
+* ⚡ Performance Optimization Enthusiast
+* 🌱 Currently Building HabitFlow
+* 💬 Ask me about React Native, Expo, Firebase & AI
 
 ---
 
-## 🎲 Fun Facts About Me
+# 🚀 Featured Projects
 
-<div align="center">
+## 🌱 HabitFlow
 
-| | |
-|:---|:---|
-| ☕ **Fuel** | 5+ cups of coffee a day — no cap |
-| ♟️ **Hobby** | Chess · Tech Blogging · Music · Reading |
-| 🐾 **Pets** | 🐱 Whiskers (cat) · 🐶 Bruno (dog) |
-| 🌍 **Languages** | English · Hindi |
-| 📖 **Currently Learning** | SwiftUI · GraphQL · Rust |
-| 🎯 **Dream Goals** | 50+ apps · React Native core contributor · YouTube channel |
-| ⚡ **Superpower** | Optimizing performance without breaking anything |
-| 💬 **Favorite Quote** | *"Write once, run everywhere — but make it feel native."* |
+AI Powered Habit Tracking & Wellness Platform
 
-</div>
+### Highlights
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+* 🤖 AI Zen Mentor
+* 🔥 Smart Streak System
+* 🧘 Breathing Exercises
+* 📊 Analytics Dashboard
+* 🔔 Smart Notifications
+* 👟 Step Tracking
+* 🌍 Community Features
+
+**Stack**
+
+React Native • Expo • Firebase • Gemini AI • Zustand • MMKV
 
 ---
 
-## 🚀 Featured Projects
+## 💍 BihariVivah
 
-<br/>
+Modern Matrimonial Platform
 
-### 🌱 HabitFlow — AI-Powered Habit & Wellness Tracker
+### Features
+
+* ❤️ Swipe Matching
+* 🎥 Media Profiles
+* 📱 Responsive UI
+* 🔐 Authentication
+* 🚀 EAS Updates
+
+**Stack**
+
+React Native • Expo • Firebase • TypeScript
+
+---
+
+## 🚛 Zinka
+
+Fleet & Logistics Management
+
+### Features
+
+* 🔐 JWT Authentication
+* 📍 Tracking System
+* 📊 Dashboard
+* ⚡ Optimized Performance
+* 🧩 Modular Architecture
+
+**Stack**
+
+React Native • Expo Router • Zustand • Axios
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
-<a href="https://github.com/sauravdikshit/habitflow">
-<img src="https://your-screenshot-url.com/habitflow.png" width="85%" alt="HabitFlow Preview"/>
-</a>
-</div>
 
-<br/>
+### Mobile Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,java,androidstudio"/>
 
-[![Stars](https://img.shields.io/github/stars/sauravdikshit/habitflow?style=for-the-badge&color=7c3aed&logo=github)](https://github.com/sauravdikshit/habitflow)&nbsp;
-[![Forks](https://img.shields.io/github/forks/sauravdikshit/habitflow?style=for-the-badge&color=4f46e5&logo=github)](https://github.com/sauravdikshit/habitflow/fork)&nbsp;
-[![Issues](https://img.shields.io/github/issues/sauravdikshit/habitflow?style=for-the-badge&color=06b6d4&logo=github)](https://github.com/sauravdikshit/habitflow/issues)
+### Backend & Cloud
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,gcp"/>
 
-> **The habit tracker that actually understands you.** Streak engine, AI Zen Mentor, breathing meditations, community forum, native step tracking — all in one deeply integrated system.
+### Tools & Workflow
 
-<table>
-<tr><th>Feature</th><th>Implementation</th><th>Status</th></tr>
-<tr><td>🤖 AI Zen Mentor (Gemini)</td><td><code>@react-native-firebase/ai</code> · Streaming chat</td><td>✅ Live</td></tr>
-<tr><td>🔥 Smart Streak Engine</td><td>Custom <code>StreakEngine</code> · Zustand + MMKV</td><td>✅ Live</td></tr>
-<tr><td>🧘 Breathing Animation</td><td>SVG Spiral · Reanimated v3</td><td>✅ Live</td></tr>
-<tr><td>👥 Community Chat</td><td>Firestore real-time · FCM Push</td><td>✅ Live</td></tr>
-<tr><td>👟 Step Tracker</td><td>Kotlin Foreground Service · Room DB</td><td>✅ Live</td></tr>
-<tr><td>📖 Stories Feed</td><td>Expo Video · FlashList staggered</td><td>✅ Live</td></tr>
-<tr><td>🏆 Achievements</td><td>Auto-unlock · Firestore subcollections</td><td>✅ Live</td></tr>
-</table>
-
-<div align="center">
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-<br/>
-
-[![View on GitHub](https://img.shields.io/badge/⭐_View_HabitFlow_on_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sauravdikshit/habitflow)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-### 💍 BihariVivah — Regional Matrimonial Platform
+# 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/sauravdikshit/biharivivah">
-<img src="https://your-screenshot-url.com/biharivivah.png" width="85%" alt="BihariVivah Preview"/>
-</a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=compact&theme=tokyonight"/>
+
 </div>
 
 <br/>
 
-> **A culturally-rooted matrimonial app** with Tinder-style swipe cards, 7-step onboarding, Reanimated v3 media viewer, and EAS OTA updates.
-
-<table>
-<tr><th>Feature</th><th>Stack</th></tr>
-<tr><td>💌 Tinder Swipe Cards</td><td>React Native Reanimated v3 · Gesture Handler</td></tr>
-<tr><td>📝 7-Step Onboarding</td><td>Formik · Yup · Expo Router groups</td></tr>
-<tr><td>🖼️ Media Viewer</td><td>Expo Video · Custom Image Modal</td></tr>
-<tr><td>🔄 OTA Updates</td><td>EAS Update · Expo Build</td></tr>
-<tr><td>🐛 Debug Panel</td><td>Custom <code>DebugPanel</code> · <code>getDeviceInfo</code></td></tr>
-</table>
-
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Reanimated](https://img.shields.io/badge/Reanimated_v3-FF6B6B?style=flat-square&logo=react&logoColor=white)
-![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logo=formik&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS-000020?style=flat-square&logo=expo&logoColor=white)
-
-<br/>
-
-[![View on GitHub](https://img.shields.io/badge/⭐_View_BihariVivah_on_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sauravdikshit/biharivivah)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight"/>
 
 </div>
 
 ---
 
-### 🚛 Zinka — Logistics & Fleet Management
-
-<div align="center">
-<a href="https://github.com/sauravdikshit/zinka">
-<img src="https://your-screenshot-url.com/zinka.png" width="85%" alt="Zinka Preview"/>
-</a>
-</div>
-
-<br/>
-
-> **Production-grade logistics platform** with JWT auth, token refresh interceptors, role-based routing, and full-screen bottom sheet navigation.
-
-<table>
-<tr><th>Feature</th><th>Stack</th></tr>
-<tr><td>🔐 Auth + Silent Token Refresh</td><td>Axios Interceptors · Zustand · MMKV</td></tr>
-<tr><td>🗺️ Role-Based Routing</td><td><code>mapTypeToRole()</code> · Expo Router</td></tr>
-<tr><td>📋 Full-Screen Bottom Sheets</td><td><code>@gorhom/bottom-sheet</code></td></tr>
-<tr><td>🔄 Force Logout Guard</td><td>MMKV Persistence · Error Boundary</td></tr>
-</table>
+# 📈 Contribution Graph
 
 <div align="center">
 
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white)
-
-<br/>
-
-[![View on GitHub](https://img.shields.io/badge/⭐_View_Zinka_on_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sauravdikshit/zinka)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravdikshit&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-### 📚 Lessons Platform — Interactive Learning App
-
-<div align="center">
-<a href="https://github.com/sauravdikshit/lessons-platform">
-<img src="https://your-screenshot-url.com/lessons.png" width="85%" alt="Lessons Platform Preview"/>
-</a>
-</div>
-
-<br/>
-
-> **Dynamic mobile learning platform** with Markdown-rendered content, gradient topic cards, and deep-linked Expo Router navigation.
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Markdown](https://img.shields.io/badge/Markdown_Renderer-000000?style=flat-square&logo=markdown&logoColor=white)
-![FlashList](https://img.shields.io/badge/FlashList-00D4FF?style=flat-square&logo=shopify&logoColor=white)
-
-<br/>
-
-[![View on GitHub](https://img.shields.io/badge/⭐_View_Lessons_on_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sauravdikshit/lessons-platform)
+<img src="https://github-profile-trophy.vercel.app/?username=sauravdikshit&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+# 📊 Developer Metrics
 
 <div align="center">
 
-### 📱 Mobile & Cross-Platform
-<img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,androidstudio&theme=dark"/>
-
-### 🔥 Backend & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs&theme=dark"/>
-
-### 🎨 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravdikshit&theme=tokyonight"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-| Category | Technologies |
-|:--------:|:------------|
-| **Mobile** | React Native · Expo · Expo Router · EAS Build/Update |
-| **Language** | TypeScript · JavaScript · Kotlin |
-| **State** | Zustand (slice pattern) · MMKV · Context API |
-| **Backend** | Firebase Auth · Firestore · FCM · Firebase AI Logic |
-| **Animation** | Reanimated v3 · SVG Animations · Lottie |
-| **UI** | FlashList · @gorhom/bottom-sheet · Gesture Handler |
-| **Native** | Foreground Service · Room DB · WorkManager · Health Connect |
-| **AI** | Gemini AI · Streaming Chat · Token Gating |
-| **Forms** | Formik · Yup · Zod |
-| **Networking** | Axios (interceptors) · tRPC · REST |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 📊 GitHub Analytics
+# 🔥 Current Focus
 
-<div align="center">
+```yaml
+learning:
+  - Advanced React Native
+  - Native Android Development
+  - AI Integrations
+  - App Performance
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=donut&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="48%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github" width="48%"/>
+building:
+  - HabitFlow
+  - AI Mobile Experiences
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravdikshit&bg_color=0d1117&color=818cf8&line=7c3aed&point=06b6d4&area=true&hide_border=false&border_color=7c3aed&area_color=7c3aed" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sauravdikshit&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+goal:
+  - Build impactful products
+```
 
 ---
 
-## 🌐 Let's Connect & Build Together
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sauravdikshit">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/sauravdikshit">
-  <img src="https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:saurav@example.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="https://saurav.dev">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://youtube.com/@sauravdikshit">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://buymeacoffee.com/sauravdikshit">
-  <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_my_work-FFDD00?style=for-the-badge&logoColor=black"/>
+<a href="https://github.com/sauravdikshit">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
-<br/>
+---
+
+# 🐍 Contribution Snake
+
+```md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sauravdikshit/sauravdikshit/output/github-contribution-grid-snake.svg" />
+</p>
+```
 
 ---
 
 <div align="center">
 
-### 💬 "Write code that you'd be proud of at 3 AM."
+### "Build products people love to use."
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4f46e5,100:7c3aed&height=140&section=footer&animation=fadeIn&fontColor=ffffff&text=Thanks%20for%20visiting!%20⭐%20Star%20something%20cool&fontSize=20&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=140&section=footer"/>
 
 </div>
