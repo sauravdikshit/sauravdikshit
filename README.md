@@ -1,89 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=320&section=header&text=Saurav%20Kumar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20•%20Expo%20Specialist%20•%20AI%20Builder&descAlignY=62&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A5ACD,30:8B7CFF,60:32A6A8,100:0B1320&text=Saurav%20Kumar&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20•%20Expo%20Specialist%20•%20AI%20Builder&descAlignY=62"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=1000&lines=📱+React+Native+Developer;⚡+Performance+Obsessed;🤖+AI+Powered+Mobile+Apps;🔥+Firebase+%7C+Expo+%7C+TypeScript;🚀+Building+HabitFlow;💡+Creating+Apps+People+Love"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=8B7CFF&center=true&vCenter=true&width=1000&lines=📱+React+Native+Developer;⚡+Performance+Optimization+Expert;🔥+Expo+%2B+Firebase+Specialist;🤖+AI+Powered+Mobile+Apps;🚀+Building+HabitFlow;💡+Creating+Experiences+Users+Love"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257464-1576b047-4fca-4d31-b6b2-0d6e4b6a6a54.gif" width="700"/>
-
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656982-8b7f2cb4-e8c7-4e89-b7bb-3f1f0b31f6a9.gif" width="750"/>
+</p>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=sauravdikshit\&style=for-the-badge\&color=6A5ACD)
+![](https://komarev.com/ghpvc/?username=sauravdikshit\&style=for-the-badge\&color=8B7CFF)
 
 ![](https://img.shields.io/github/followers/sauravdikshit?style=for-the-badge\&color=32A6A8)
 
-![](https://img.shields.io/github/stars/sauravdikshit?style=for-the-badge\&color=2D4F7C)
+![](https://img.shields.io/github/stars/sauravdikshit?style=for-the-badge\&color=6A5ACD)
 
 </div>
 
 ---
 
-# 💻 Terminal
+# ⚡ Developer Console
 
 ```bash
-> whoami
+$ whoami
 
-Saurav Kumar
+Name      : Saurav Kumar
+Role      : React Native Developer
+Location  : India
 
-React Native Developer
-Expo Specialist
-Firebase Expert
-AI Builder
+Speciality:
+├── React Native
+├── Expo
+├── Firebase
+├── Zustand
+├── TypeScript
+└── AI Integrations
 
 Currently Building:
 └── HabitFlow
 
-Tech Stack:
-├── React Native
-├── Expo
-├── Firebase
-├── TypeScript
-├── Zustand
-└── Gemini AI
-
 Mission:
-└── Build products people love.
+└── Build products people love using every day.
 ```
 
 ---
 
-# ⚡ Tech Universe
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,java,firebase,nodejs,git,github,vscode,figma,postman,androidstudio"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🚀 Featured Products
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🌱 HabitFlow
 
 AI Powered Habit Tracker
 
-✨ AI Mentor
-🔥 Smart Streaks
-🧘 Meditation
-📊 Analytics
-🔔 Push Notifications
+✅ Smart Streak System
 
-**React Native • Expo • Firebase • Gemini AI**
+✅ AI Zen Mentor
+
+✅ Breathing Exercises
+
+✅ Community Features
+
+✅ Analytics Dashboard
+
+### Stack
+
+React Native • Expo • Firebase • Gemini AI • Zustand
 
 </td>
 
@@ -93,26 +85,44 @@ AI Powered Habit Tracker
 
 Modern Matrimonial Platform
 
-❤️ Swipe Matching
-🎥 Rich Media Profiles
-⚡ Smooth Animations
-🚀 Production Ready
+✅ Swipe Matching
 
-**React Native • Expo • TypeScript**
+✅ Media Profiles
+
+✅ Advanced Filters
+
+✅ Push Notifications
+
+✅ OTA Updates
+
+### Stack
+
+React Native • Expo • Firebase • TypeScript
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠️ Technology Ecosystem
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,java,firebase,nodejs,git,github,vscode,figma,postman,androidstudio"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -128,13 +138,13 @@ Modern Matrimonial Platform
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sauravdikshit&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sauravdikshit&theme=tokyonight&row=2&column=4&margin-w=20"/>
 
 </p>
 
 ---
 
-# 📈 Developer Dashboard
+# 📈 Coding Metrics
 
 <p align="center">
 
@@ -162,11 +172,11 @@ Modern Matrimonial Platform
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -176,8 +186,8 @@ Modern Matrimonial Platform
 
 <div align="center">
 
-### 🚀 Build products people love to use.
+### 🚀 Build products that people love.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:32A6A8,100:2D4F7C&height=160&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0B1320,40:32A6A8,70:8B7CFF,100:6A5ACD"/>
 
 </div>
