@@ -37,23 +37,26 @@
 ```typescript
 // saurav.ts — who is this guy?
 
-const saurav: Developer = {
-  name     : "Saurav Kumar",
-  location : "Patna, India 🇮🇳",
-  role     : "React Native Developer",
+const saurav = {
+  name: "Saurav Kumar",
+  location: "Patna, India 🇮🇳",
+  role: "React Native Developer",
 
-  code      : ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
   frameworks: ["React Native", "Expo", "Zustand"],
 
-  learning  : ["SwiftUI", "GraphQL", "Rust"],
+  learning: ["SwiftUI", "GraphQL", "Rust"],
 
   hobbies: [
-    "💻 Coding",    "📝 Tech Blogging",
-    "♟️  Chess",    "🎧 Music",    "📚 Reading",
+    "💻 Coding",
+    "📝 Tech Blogging",
+    "♟️ Chess",
+    "🎧 Music",
+    "📚 Reading",
   ],
 
-  pets     : ["🐱 Whiskers", "🐶 Bruno"],
-  weakness : "☕ 5+ cups of coffee/day",
+  pets: ["🐱 Whiskers", "🐶 Bruno"],
+  weakness: "☕ 5+ cups of coffee/day",
   superpower: "⚡ 60fps without breaking things",
 
   goals: [
@@ -62,12 +65,14 @@ const saurav: Developer = {
     "Start a tech YouTube channel",
   ],
 
-  quote : `Write once, run everywhere — but make it feel native.`,
+  quote: "Write once, run everywhere — but make it feel native.",
   openTo: ["Freelance", "Full-time", "OSS"],
 };
-
-// run it ↓
+console.log(saurav.name);
+console.log(saurav.role);
 console.log(saurav.quote);
+
+
 // ▶ "Write once, run everywhere — but make it feel native."
 ```
 
