@@ -269,9 +269,9 @@ const saurav: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=donut&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdikshit&layout=donut&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="48%"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sauravdikshit&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&layout=compact" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github" width="48%"/>
 
 </div>
 
