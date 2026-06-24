@@ -26,9 +26,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <!-- LEFT COLUMN – Developer Console -->
+
+
+</div>
 ⚡ Developer Console
 $ whoami
 
@@ -49,6 +51,7 @@ Currently Building:
 
 Mission:
 └── Build products people love using every day.
+
 
 
   <!-- RIGHT COLUMN – GitHub Stats (stacks vertically) -->
