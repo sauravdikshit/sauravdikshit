@@ -1,7 +1,6 @@
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:4f46e5,100:06b6d4&height=250&section=header&text=Saurav%20Kumar&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=React%20Native%20Developer%20%E2%80%A2%20Mobile%20App%20Artisan%20%E2%80%A2%20AI%20Integrator&descAlignY=62&descSize=20&descColor=e0e7ff&stroke=ffffff&strokeWidth=2" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A5ACD,30:8B7CFF,60:32A6A8,100:0B1320&text=Saurav%20Kumar&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20•%20Expo%20Specialist%20•%20AI%20Builder&descAlignY=62"/>
 </div>
 
 <div align="center">
