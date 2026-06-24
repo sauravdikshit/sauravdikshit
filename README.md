@@ -364,6 +364,11 @@ console.log(saurav.quote);
 
 ---
 
+🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/sauravdikshit/sauravdikshit/output/github-contribution-grid-snake.svg"/>
+</p>
+
 <div align="center">
 
 ### 💬 "Write code that you'd be proud of at 3 AM."
