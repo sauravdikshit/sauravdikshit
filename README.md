@@ -26,41 +26,55 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
-<div align="center">
+🧬 whoami
 
+<table>
+<tr>
+<td valign="top" width="55%">
+typescript// saurav.ts — who is this guy?
 
+const saurav: Developer = {
+  name     : "Saurav Kumar",
+  location : "Patna, India 🇮🇳",
+  role     : "React Native Developer",
 
-</div>
-⚡ Developer Console
-$ whoami
+  code      : ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
+  frameworks: ["React Native", "Expo", "Zustand"],
 
-Name      : Saurav Kumar
-Role      : React Native Developer
-Location  : India
+  learning  : ["SwiftUI", "GraphQL", "Rust"],
 
-Speciality:
-├── React Native
-├── Expo
-├── Firebase
-├── Zustand
-├── TypeScript
-└── AI Integrations
+  hobbies: [
+    "💻 Coding",    "📝 Tech Blogging",
+    "♟️  Chess",    "🎧 Music",    "📚 Reading",
+  ],
 
-Currently Building:
-└── HabitFlow
+  pets     : ["🐱 Whiskers", "🐶 Bruno"],
+  weakness : "☕ 5+ cups of coffee/day",
+  superpower: "⚡ 60fps without breaking things",
 
-Mission:
-└── Build products people love using every day.
+  goals: [
+    "Build 50+ apps",
+    "Contribute to React Native core",
+    "Start a tech YouTube channel",
+  ],
 
+  quote : `Write once, run everywhere — but make it feel native.`,
+  openTo: ["Freelance", "Full-time", "OSS"],
+};
 
+// run it ↓
+console.log(saurav.quote);
+// ▶ "Write once, run everywhere — but make it feel native."
 
-  <!-- RIGHT COLUMN – GitHub Stats (stacks vertically) -->
-  <div style="flex: 1 1 300px; min-width: 280px; max-width: 500px; display: flex; flex-direction: column; gap: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github&card_width=340" width="100%" style="border-radius: 8px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight&border=7c3aed&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=888" width="100%" style="border-radius: 8px;" />
-  </div>
-
-</div>
+</td>
+<td valign="top" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=sauravdikshit&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&hide_border=false&rank_icon=github&card_width=340" width="100%"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravdikshit&theme=tokyonight&border=7c3aed&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=888" width="100%"/>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
